@@ -1,10 +1,10 @@
 
-def square_array(array)
- new = []
-  array.each do |x| 
+# def square_array(array)
+# new = []
+#   array.each do |x| 
 
-    array.new << x ** 2
-    return array.new 
- end
- square_array
-end
+#     array.new << x ** 2
+#     return array.new 
+# end
+# square_array
+# end
